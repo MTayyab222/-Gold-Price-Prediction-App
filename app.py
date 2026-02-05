@@ -56,4 +56,4 @@ if st.sidebar.button("🔮 Predict Gold Price"):
 
 # Footer
 st.markdown("---")
-st.write("Built with ❤️ using Random Forest Regressor | R² Score: 0.989")
+st.write("Built with  using Random Forest Regressor | R² Score: 0.989")
